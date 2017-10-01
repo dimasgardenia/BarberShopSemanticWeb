@@ -1,0 +1,50 @@
+.navbar.navbar-inverse {
+    margin-bottom: -20px;
+}
+
+.container-fluid.footer{
+    background-color: #34495e;
+    color: #fff;
+    padding: 10px 0px;
+}
+
+.glyphicon.glyphicon-home {
+    line-height: 10px;
+    word-spacing: -1px;
+}
+.jarak-content{
+  padding-top: 105px;
+}
+
+.jarak {
+    padding: 0px 9px;
+}
+.social{
+  width: 140px;
+}
+.jarak-table{
+  margin-top: 40px;
+}
+.fa.fa-twitter-square.iconSocial {
+    font-size: 50px;
+}
+.fa.fa-github.iconSocial {
+    font-size: 50px;
+}
+.fa.fa-facebook-square.iconSocial {
+    font-size: 50px;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 142px;
+}
+.gambar{
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+.font-coba{
+  margin-top:50px;
+  padding-left: -2px;
+}
